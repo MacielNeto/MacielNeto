@@ -1,10 +1,7 @@
 ### Olá!!! Eu Sou Edinilson Maciel Neto 👋
 
 
-- ⚡ Estou Trabalhando com Front End
-- 📫 Estudando Back End
-- 📫 Estudando Cyber Segurança
-- 📫 Estudando Marketing Digital
+
 
 <div align="center">
   <a href="https://github.com/MacielNeto">
